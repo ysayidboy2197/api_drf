@@ -1,2 +1,2 @@
-# api_drf
+# API DRF
 API created using Django Rest Framework.
