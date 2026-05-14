@@ -1,2 +1,2 @@
 # api_drf
-API created using Django Rest Framework
+API created using Django Rest Framework.
